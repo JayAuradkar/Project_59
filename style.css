@@ -1,0 +1,21 @@
+.profile{
+    width: 175px;
+    border-radius: 50%;
+}
+body{
+  text-align:center;
+    background-color:aqua;
+}
+.main_div{
+  background-color:aquamarine;
+}
+.menu{
+    background-color: #2d16e6; 
+}
+#About{
+    background-color: #5c9ad0;
+}
+#Wiki{
+  height: 500px;
+    width: 700px;
+}
